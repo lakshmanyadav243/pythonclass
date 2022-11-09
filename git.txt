@@ -1,0 +1,26 @@
+1.git init
+2. git add *
+3. git commit -m "first commit"
+
+4. git branch -m master
+
+
+
+
+git config --global user.email "sam@example.com"
+
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/lakshmanyadav243/python8am.git
+git push -u origin master
+
+
+for next files or code for same project
+
+1. git add *
+2. git commit -m "first commit"
+3. push -u origin master
